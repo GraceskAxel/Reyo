@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "docs": "^2.0.0"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev reyo-documentation",
+    "docs:build": "vitepress build reyo-documentation",
+    "docs:preview": "vitepress preview reyo-documentation"
+  }
+}
